@@ -577,8 +577,10 @@ h6 {
 @media (max-width: 768px),
 (max-height: 700px) {
   #hero {
-    height: 120vh;
-    padding: 100px 0;
+    background: url("../img/mwinda243.PNG") top left no-repeat;
+    height: 100%;
+    background-size: cover;
+    padding-top: 50%;
   }
 
   #hero h2 {
