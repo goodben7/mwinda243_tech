@@ -578,7 +578,7 @@ h6 {
 (max-height: 700px) {
   #hero {
     width: 100%;
-    height: 80vh;
+    height: 100vh;
     overflow: hidden;
     position: relative;
     background: url("../img/mwinda243.png") top center;
@@ -587,6 +587,7 @@ h6 {
     margin-bottom: -90px;
     z-index: 99;
     transition: 0.3s;
+    padding: 100px 0;
   }
 
   #hero h2 {
